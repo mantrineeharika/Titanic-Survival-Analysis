@@ -1,4 +1,5 @@
 Titanic Survival Data Analysis
+
 📌 Project Overview
 
 This project explores the Titanic dataset to understand the key factors that influenced passenger survival. Using Python libraries like pandas, matplotlib, and seaborn, the project covers complete data cleaning, exploratory data analysis (EDA), and visualization.
